@@ -9,7 +9,7 @@ My IT &amp; Cybersecurity
 
 ---
 
-## 🗂️ All Projects
+##  All Projects
 
 | # | Project | Description | Tech Stack | Link |
 |---|---------|-------------|------------|------|
@@ -20,7 +20,7 @@ My IT &amp; Cybersecurity
 
 ---
 
-## 🛠️ Skills Demonstrated Across Projects
+##  Skills Demonstrated Across Projects
 
 | Skill Area | Projects |
 |---|---|
@@ -34,7 +34,7 @@ My IT &amp; Cybersecurity
 
 ---
 
-## 📊 Tech Stack Overview
+##  Tech Stack Overview
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
@@ -45,7 +45,7 @@ My IT &amp; Cybersecurity
 
 ---
 
-## 📬 Contact
+##  Contact
 
 If you're a recruiter or hiring manager and want to discuss any of these projects:
 
