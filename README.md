@@ -13,10 +13,10 @@ My IT &amp; Cybersecurity
 
 | # | Project | Description | Tech Stack | Link |
 |---|---------|-------------|------------|------|
-| 1 | 🔍 Cyber Port Scanner | Desktop GUI tool to scan any IP/hostname for open ports & running services. Colour-coded results with exportable scan reports. | Python, Tkinter, Socket | [View Repo →](https://github.com/OmSutaria/cyber-port-scanner) |
-| 2 | 🎫 Help Desk Ticketing System | CLI ticketing system simulating real IT support workflows — create, assign, escalate, and resolve tickets with persistent SQLite storage. | Python, SQLite | [View Repo →](https://github.com/OmSutaria/helpdesk-ticket-system) |
-| 3 | 📡 Network Traffic Monitor | PCAP file analyser that detects port scans, SYN floods, and anomalous traffic, then generates structured incident reports. | Python, Scapy, Wireshark | [View Repo →](https://github.com/OmSutaria/network-traffic-monitor) |
-| 4 | 🖥️ Dual-OS IT Lab Setup | Full runbook for a virtualised Windows 10 + Kali Linux IT lab — networking, user admin, file sharing, SSH, and security hardening. | VirtualBox, Windows 10, Kali Linux | [View Repo →](https://github.com/OmSutaria/dual-os-it-lab) |
+| 1 | 🔍 Cyber Port Scanner | Desktop GUI tool to scan any IP/hostname for open ports & running services. Colour-coded results with exportable scan reports. | Python, Tkinter, Socket | [View Repo →](https://github.com/Omsutaria/Cyber-port-scanner) |
+| 2 | 🎫 Help Desk Ticketing System | CLI ticketing system simulating real IT support workflows — create, assign, escalate, and resolve tickets with persistent SQLite storage. | Python, SQLite | [View Repo →](https://github.com/Omsutaria/Helpdesk-ticket-system-) |
+| 3 | 📡 Network Traffic Monitor | PCAP file analyser that detects port scans, SYN floods, and anomalous traffic, then generates structured incident reports. | Python, Scapy, Wireshark | [View Repo →](https://github.com/Omsutaria/Network-traffic-monitor-) |
+| 4 | 🖥️ Dual-OS IT Lab Setup | Full runbook for a virtualised Windows 10 + Kali Linux IT lab — networking, user admin, file sharing, SSH, and security hardening. | VirtualBox, Windows 10, Kali Linux | [View Repo →](https://github.com/Omsutaria/Dual-OS-It-Lab) |
 
 ---
 
